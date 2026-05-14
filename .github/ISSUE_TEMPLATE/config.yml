@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/maximseshuk/rspress-plugin-scalar#readme
+    about: Check the documentation for setup and configuration guides
+  - name: Scalar configuration reference
+    url: https://scalar.com/products/api-references/configuration
+    about: Full list of options accepted by the Scalar API Reference
+  - name: Rspress documentation
+    url: https://rspress.dev
+    about: Rspress framework docs
