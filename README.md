@@ -120,6 +120,10 @@ The plugin merges these defaults into each instance's `configuration` (override 
 }
 ```
 
+## Examples
+
+- [snapr.seshuk.im/api.html](https://snapr.seshuk.im/api.html) — live API reference rendered with this plugin.
+
 ## How it works
 
 - The plugin registers a custom page at each `route` via Rspress's `addPages` hook.
