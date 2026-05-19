@@ -16,7 +16,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 const DEFAULT_CONFIGURATION: AnyApiReferenceConfiguration = {
   hideTestRequestButton: true,
-  hideDownloadButton: true,
+  documentDownloadType: 'none',
   hideDarkModeToggle: true,
   hideClientButton: true,
   hideModels: true,

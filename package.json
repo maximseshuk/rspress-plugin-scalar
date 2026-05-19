@@ -1,6 +1,6 @@
 {
   "name": "@seshuk/rspress-plugin-scalar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rspress plugin to render Scalar API Reference from an OpenAPI spec",
   "keywords": [
     "api-reference",
@@ -54,19 +54,19 @@
     "format:check": "oxfmt --check"
   },
   "dependencies": {
-    "@scalar/types": "^0.9.6"
+    "@scalar/types": "^0.11.0"
   },
   "devDependencies": {
     "@rsbuild/plugin-react": "^2.0.0",
     "@rslib/core": "^0.21.5",
     "@rspress/core": "^2.0.11",
-    "@types/node": "^22.19.19",
+    "@types/node": "^25.9.0",
     "@types/react": "^19.2.14",
-    "oxfmt": "^0.49.0",
-    "oxlint": "^1.64.0",
+    "oxfmt": "^0.51.0",
+    "oxlint": "^1.66.0",
     "react": "^19.2.6",
     "rsbuild-plugin-publint": "^0.3.4",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   },
   "peerDependencies": {
     "@rspress/core": "^2.0.0-rc.4 || ^2.0.0",
